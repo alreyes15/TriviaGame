@@ -3,7 +3,7 @@ $(document).ready(function () {
         {
             question: "Who Killed Tony Stark's Parents", 
             choice: ["Loki", "Thanos", "Bucky", "You did"],
-            answer: 1,
+            answer: 2,
             
          },
          {
